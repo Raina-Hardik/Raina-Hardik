@@ -14,12 +14,12 @@
 
 ### About Me
 
-- Senior Machine Learning Engineer at [Agnisys Inc.](https://www.agnisys.com/), building **AI²** — an EDA verification intelligence platform spanning multimodal document understanding, register-map reasoning, and RAG over design documentation.
-- I train and fine-tune LLMs from scratch and **self-host them company-wide** — a fine-tuned Qwen3 deployment replaced our OpenAI API dependency for embeddings and synthetic data generation.
+- Senior Machine Learning Engineer at [Agnisys Inc.](https://www.agnisys.com/), building **AI²** - an EDA verification intelligence platform spanning multimodal document understanding, register-map reasoning, and RAG over design documentation.
+- I train and fine-tune LLMs from scratch and **self-host them company-wide** - a fine-tuned Qwen3 deployment replaced our OpenAI API dependency for embeddings and synthetic data generation.
 - Focused on **constrained/grammar-based generation**, genetic-algorithm-driven fine-tuning, MCP servers, and domain-specific agentic tooling.
-- Manage **AWS** infrastructure in depth — autoscaling, S3-based backup/DR, and cost optimization.
-- Published researcher — 3 papers and a **DAC 2026** poster.
-- Site: [hardikraina.com](https://hardikraina.com) — projects, publications, and résumé.
+- Manage **AWS** infrastructure in depth - autoscaling, S3-based backup/DR, and cost optimization.
+- Published researcher - 3 papers and a **DAC 2026** poster.
+- Site: [hardikraina.com](https://hardikraina.com) - projects, publications, and résumé.
 - ORCID: [0009-0007-4281-2989](https://orcid.org/0009-0007-4281-2989) &nbsp;·&nbsp; [hardikraina079@gmail.com](mailto:hardikraina079@gmail.com)
 
 ---
@@ -45,16 +45,16 @@ Cloud & Infra:
 
 ### Research Publications
 
-- *AI²: EDA Verification Intelligence Platform* — Poster, **DAC 2026** (submitted to DVCon)
-- *From Data to Decisions: Predictive Analysis on FAIR Prophet* — *IC3 2024*
-- *Language Agnostic NMT: Novel Improvements on Transformers* — [DOI](https://doi.org/10.1145/3675888.3676109)
-- *Yoga Pose Detection using VGG* — [Read PDF](https://drive.google.com/file/d/1iQvlbWocXIAXQ-o713udMYpvONrJhLbc/view?usp=drive_link)
+- *AI²: EDA Verification Intelligence Platform* - Poster, **DAC 2026** (submitted to DVCon)
+- *From Data to Decisions: Predictive Analysis on FAIR Prophet* - *IC3 2024*
+- *Language Agnostic NMT: Novel Improvements on Transformers* - [DOI](https://doi.org/10.1145/3675888.3676109)
+- *Yoga Pose Detection using VGG* - [Read PDF](https://drive.google.com/file/d/1iQvlbWocXIAXQ-o713udMYpvONrJhLbc/view?usp=drive_link)
 
 ---
 
 ### What I'm Working On
 
-- Owning **AI²** end-to-end — FSM extraction, SystemRDL/XRSL register-map reasoning, and semantic RAG over specs.
+- Owning **AI²** end-to-end - FSM extraction, SystemRDL/XRSL register-map reasoning, and semantic RAG over specs.
 - Genetic-algorithm and RL fine-tuning strategies that cut verification turnaround by **70%+** (HLD-to-driver from 30 days to under 6 hours).
 - MCP servers exposing the internal EDA toolchain to LLM agents, plus a terminal-native VCD waveform-rendering coding assistant.
 
@@ -62,10 +62,10 @@ Cloud & Infra:
 
 ### Featured Projects & Open Source
 
-- **[smelt](https://github.com/Raina-Hardik/smelt)** — highly parallel, ffmpeg-powered media transcoding CLI/TUI with hardware-accelerated encoding *(Go)*
-- **xml-bifurcate** — massively parallel Rust tool that isolates the exact failing block in a chip design; adopted internally at Agnisys *(Rust, Tree-sitter)*
-- **Image Super-Resolution Service (EDSR)** — production-shaped SISR service *(PyTorch, FastAPI, Docker, Caddy)*
-- **[mcat](https://github.com/Skardyy/mcat)** contributor — fixed three interactive-mode bugs in a 1.3k-star Rust terminal media viewer *(PR #83, merged)*
+- **[smelt](https://github.com/Raina-Hardik/smelt)** - highly parallel, ffmpeg-powered media transcoding CLI/TUI with hardware-accelerated encoding *(Go)*
+- **xml-bifurcate** - massively parallel Rust tool that isolates the exact failing block in a chip design; adopted internally at Agnisys *(Rust, Tree-sitter)*
+- **Image Super-Resolution Service (EDSR)** - production-shaped SISR service *(PyTorch, FastAPI, Docker, Caddy)*
+- **[mcat](https://github.com/Skardyy/mcat)** contributor - fixed three interactive-mode bugs in a 1.3k-star Rust terminal media viewer *(PR #83, merged)*
 
 ---
 
