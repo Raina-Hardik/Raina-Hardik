@@ -62,7 +62,7 @@ Cloud & Infra:
 
 ### Featured Projects & Open Source
 
-- **[smelt](https://github.com/Raina-Hardik)** — highly parallel, ffmpeg-powered media transcoding CLI/TUI with hardware-accelerated encoding *(Go)*
+- **[smelt](https://github.com/Raina-Hardik/smelt)** — highly parallel, ffmpeg-powered media transcoding CLI/TUI with hardware-accelerated encoding *(Go)*
 - **xml-bifurcate** — massively parallel Rust tool that isolates the exact failing block in a chip design; adopted internally at Agnisys *(Rust, Tree-sitter)*
 - **Image Super-Resolution Service (EDSR)** — production-shaped SISR service *(PyTorch, FastAPI, Docker, Caddy)*
 - **[mcat](https://github.com/Skardyy/mcat)** contributor — fixed three interactive-mode bugs in a 1.3k-star Rust terminal media viewer *(PR #83, merged)*
