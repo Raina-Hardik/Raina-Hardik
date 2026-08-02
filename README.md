@@ -3,6 +3,10 @@
 <h3 align="center">Senior Machine Learning Engineer &nbsp;·&nbsp; LLMs, Multimodal AI, RAG &nbsp;·&nbsp; Systems & Open Source</h3>
 
 <p align="center">
+  <a href="https://hardikraina.com">hardikraina.com</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raina-Hardik&label=Profile%20views&color=0e75b6&style=flat" alt="Raina-Hardik" />
 </p>
 
@@ -15,6 +19,7 @@
 - Focused on **constrained/grammar-based generation**, genetic-algorithm-driven fine-tuning, MCP servers, and domain-specific agentic tooling.
 - Manage **AWS** infrastructure in depth — autoscaling, S3-based backup/DR, and cost optimization.
 - Published researcher — 3 papers and a **DAC 2026** poster.
+- Site: [hardikraina.com](https://hardikraina.com) — projects, publications, and résumé.
 - ORCID: [0009-0007-4281-2989](https://orcid.org/0009-0007-4281-2989) &nbsp;·&nbsp; [hardikraina079@gmail.com](mailto:hardikraina079@gmail.com)
 
 ---
@@ -67,6 +72,7 @@ Cloud & Infra:
 ### Connect
 
 <p align="center">
+  <a href="https://hardikraina.com"><img src="https://img.shields.io/badge/Website-hardikraina.com-a7c080?style=flat&logo=hugo&logoColor=white" alt="hardikraina.com" /></a>
   <a href="https://www.linkedin.com/in/hardik-raina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:hardikraina079@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
   <a href="https://github.com/Raina-Hardik"><img src="https://img.shields.io/github/followers/Raina-Hardik?label=GitHub&style=social" /></a>
